@@ -8,7 +8,7 @@ It is a clean, modern, and fully responsive single-page portfolio designed to pr
 ---
 
 ## 🔗 Project Links
-- **Live Website:** [Click Here to View Live]([https://your-portfolio-link.vercel.app](https://tsg-webdev-p01-sanajaved.vercel.app/))
+- **Live Website:** [Click Here to View Live]([https://your-portfolio-link.vercel.app](https://tsg-webdev-p01-sanajaved.vercel.app/)
 - **GitHub Repository:** [https://github.com/sana-javed-04/tsg-webdev-p01-sanajaved](https://github.com/sana-javed-04/tsg-webdev-p01-sanajaved)
 
 ---
